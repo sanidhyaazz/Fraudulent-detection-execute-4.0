@@ -1,0 +1,59 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "TXN001",
+      "transaction_amount": 150.00,
+      "transaction_payment_mode_anonymous": false,
+      "payment_gateway_bank_anonymous": false,
+      "payer_browser_anonymous": false,
+      "payer_email_anonymous": false,
+      "payer_id_anonymous": false,
+      "payer_ip_anonymous": false,
+      "payer_mobile_anonymous": false
+    },
+    {
+      "transaction_id": "TXN002",
+      "transaction_amount": 12000.00,
+      "transaction_payment_mode_anonymous": true,
+      "payment_gateway_bank_anonymous": true,
+      "payer_browser_anonymous": true,
+      "payer_email_anonymous": true,
+      "payer_id_anonymous": true,
+      "payer_ip_anonymous": true,
+      "payer_mobile_anonymous": true
+    },
+    {
+      "transaction_id": "TXN003",
+      "transaction_amount": 500.00,
+      "transaction_payment_mode_anonymous": false,
+      "payment_gateway_bank_anonymous": false,
+      "payer_browser_anonymous": true,
+      "payer_email_anonymous": false,
+      "payer_id_anonymous": false,
+      "payer_ip_anonymous": true,
+      "payer_mobile_anonymous": false
+    },
+    {
+      "transaction_id": "TXN004",
+      "transaction_amount": 25000.00,
+      "transaction_payment_mode_anonymous": true,
+      "payment_gateway_bank_anonymous": true,
+      "payer_browser_anonymous": false,
+      "payer_email_anonymous": true,
+      "payer_id_anonymous": false,
+      "payer_ip_anonymous": true,
+      "payer_mobile_anonymous": false
+    },
+    {
+      "transaction_id": "TXN005",
+      "transaction_amount": 7500.00,
+      "transaction_payment_mode_anonymous": false,
+      "payment_gateway_bank_anonymous": true,
+      "payer_browser_anonymous": false,
+      "payer_email_anonymous": true,
+      "payer_id_anonymous": false,
+      "payer_ip_anonymous": false,
+      "payer_mobile_anonymous": true
+    }
+  ]
+} 
